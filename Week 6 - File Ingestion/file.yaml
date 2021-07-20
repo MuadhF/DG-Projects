@@ -1,0 +1,15 @@
+file_type: csv
+dataset_name: dataset
+file_name: dataset
+inbound_delimiter: ","
+outbound_delimiter: "|"
+columns: 
+    - event_time
+    - event_type
+    - product_id
+    - category_id
+    - category_code
+    - brand
+    - price
+    - user_id
+    - user_session
